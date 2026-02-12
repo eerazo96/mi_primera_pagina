@@ -1,2 +1,2 @@
 # mi_primera_pagina
-Mi primera homework de aplicaciones web
+Este respositorio contiene mis primeros pasos con html, css y javascript.
